@@ -13,11 +13,4 @@ print('Sua altura é:', altura)
 print('Seu telefone é:', telefone)
 
 
-#nome = 'Guilherme'
-#idade =  26
-#altura = 1.78
-#print (nome, 'tem', idade, 'anos e', altura, 'de altura')
 
-
-# print('test \n test após quebra de linha')
-# print('test \t test após tablet')
